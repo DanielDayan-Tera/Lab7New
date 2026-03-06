@@ -25,7 +25,7 @@ The Half Adder has a carry out which is whatever's left over after the bits are 
 Subtracter has a borrow which is whatever's needed to be able to subtract one bit from the other. 
 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
-If the end around carry of One's Complement is 1, then it needs to be added to the sum to get the correct number. 
+If the end around carry of One's Complement is 1, then it needs to be added to the sum to get the correct number. What makes it hard is you cant just loop it back around as that could make a infanite loop so you just need to attach two full sets of full adders together.
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
 Overflow.
