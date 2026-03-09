@@ -12,8 +12,8 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Audrey Fitchett
-Daniel Dayan 
+- Audrey Fitchett
+- Daniel Dayan 
 
 ## Summary
 This lab, we practiced implementing a half subtractor, 1's complement, and 2's complement in verilog. 
